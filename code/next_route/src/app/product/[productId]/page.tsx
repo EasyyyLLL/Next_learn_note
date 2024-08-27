@@ -1,3 +1,4 @@
+// src/app/product/[productId]/page.tsx
 import { Metadata } from "next";
 
 type Props = {

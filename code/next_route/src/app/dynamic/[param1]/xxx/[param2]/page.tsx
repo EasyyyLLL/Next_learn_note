@@ -1,3 +1,4 @@
+// src/app/dynamic/[param1]/xxx/[param2]/page.tsx
 interface Params {
   params: {
     param1: string;

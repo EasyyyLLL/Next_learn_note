@@ -1,3 +1,4 @@
+// src/app/dynamic2/[...dynamic2]/page.tsx
 interface Params {
   params: {
     dynamic2: string;
